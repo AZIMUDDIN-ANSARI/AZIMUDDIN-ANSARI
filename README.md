@@ -1,6 +1,6 @@
 # Hi, I'm Azimuddin Ansari 👋
 
-### 🚀 Java Backend Developer | Spring Boot | Microservices | GenAI
+### 🚀 Java Full Stack Developer | Spring Boot |React | Microservices |DevOps | AI
 
 B.Tech Computer Science graduate focused on building scalable backend applications, secure REST APIs, and AI-powered applications using Java and Spring Boot.
 
